@@ -7,6 +7,6 @@ while :
 do
   read -r question
   question="$(echo $question | tr -d \?)"
-  echo "The answer to $question is Pascal"
+  echo "The answer to $question is Matas"
   echo "Type another question:"
 done
